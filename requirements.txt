@@ -1,0 +1,11 @@
+streamlit
+google_generativeai
+python-dotenv
+langchain
+PyPDF2
+langchain_community
+langchain_google_genai
+langchain-groq
+sqlalchemy
+mysql-connector-python
+-e .
